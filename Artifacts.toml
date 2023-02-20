@@ -8,7 +8,7 @@ os = "linux"
 
     [[PAPI.download]]
     sha256 = "bca90e275cb43fab87eab09663f72216cd0c5efd57e33c4daffa3125ee157d2f"
-    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+0/PAPI.v7.0.0.x86_64-linux-gnu-cuda+10.2.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+1/PAPI.v7.0.0.x86_64-linux-gnu-cuda+10.2.tar.gz"
 [[PAPI]]
 arch = "powerpc64le"
 cuda = "10.2"
@@ -19,7 +19,7 @@ os = "linux"
 
     [[PAPI.download]]
     sha256 = "83bd2f1287372e71e5d87b95ad7e99e7eb5db0cf1ada463aa5b627850f08211f"
-    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+0/PAPI.v7.0.0.powerpc64le-linux-gnu-cuda+10.2.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+1/PAPI.v7.0.0.powerpc64le-linux-gnu-cuda+10.2.tar.gz"
 [[PAPI]]
 arch = "x86_64"
 cuda = "11.0"
@@ -30,7 +30,7 @@ os = "linux"
 
     [[PAPI.download]]
     sha256 = "bca90e275cb43fab87eab09663f72216cd0c5efd57e33c4daffa3125ee157d2f"
-    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+0/PAPI.v7.0.0.x86_64-linux-gnu-cuda+11.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+1/PAPI.v7.0.0.x86_64-linux-gnu-cuda+11.0.tar.gz"
 [[PAPI]]
 arch = "powerpc64le"
 cuda = "11.0"
@@ -41,7 +41,7 @@ os = "linux"
 
     [[PAPI.download]]
     sha256 = "83bd2f1287372e71e5d87b95ad7e99e7eb5db0cf1ada463aa5b627850f08211f"
-    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+0/PAPI.v7.0.0.powerpc64le-linux-gnu-cuda+11.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+1/PAPI.v7.0.0.powerpc64le-linux-gnu-cuda+11.0.tar.gz"
 [[PAPI]]
 arch = "x86_64"
 cuda = "none"
@@ -52,7 +52,7 @@ os = "linux"
 
     [[PAPI.download]]
     sha256 = "bca90e275cb43fab87eab09663f72216cd0c5efd57e33c4daffa3125ee157d2f"
-    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+0/PAPI.v7.0.0.x86_64-linux-gnu-cuda+none.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+1/PAPI.v7.0.0.x86_64-linux-gnu-cuda+none.tar.gz"
 [[PAPI]]
 arch = "aarch64"
 cuda = "none"
@@ -63,7 +63,7 @@ os = "linux"
 
     [[PAPI.download]]
     sha256 = "1458b17717071a1ddfdacdd110f94ce4df97296057a346e9ac63102fd753318d"
-    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+0/PAPI.v7.0.0.aarch64-linux-gnu-cuda+none.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+1/PAPI.v7.0.0.aarch64-linux-gnu-cuda+none.tar.gz"
 [[PAPI]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -75,7 +75,7 @@ os = "linux"
 
     [[PAPI.download]]
     sha256 = "bcb783be9af7ec60cb52456d7b88fbcd4ee2ae8740c7b22a880e3b7cd5101f19"
-    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+0/PAPI.v7.0.0.armv7l-linux-gnueabihf-cuda+none.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+1/PAPI.v7.0.0.armv7l-linux-gnueabihf-cuda+none.tar.gz"
 [[PAPI]]
 arch = "powerpc64le"
 cuda = "none"
@@ -86,7 +86,7 @@ os = "linux"
 
     [[PAPI.download]]
     sha256 = "83bd2f1287372e71e5d87b95ad7e99e7eb5db0cf1ada463aa5b627850f08211f"
-    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+0/PAPI.v7.0.0.powerpc64le-linux-gnu-cuda+none.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+1/PAPI.v7.0.0.powerpc64le-linux-gnu-cuda+none.tar.gz"
 [[PAPI]]
 arch = "x86_64"
 cuda = "none"
@@ -97,7 +97,7 @@ os = "linux"
 
     [[PAPI.download]]
     sha256 = "1e5b9c484fcb2b9576dceeeebb2f59f5458b69937c20964c187b6d7f5d2d26d4"
-    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+0/PAPI.v7.0.0.x86_64-linux-musl-cuda+none.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+1/PAPI.v7.0.0.x86_64-linux-musl-cuda+none.tar.gz"
 [[PAPI]]
 arch = "aarch64"
 cuda = "none"
@@ -108,7 +108,7 @@ os = "linux"
 
     [[PAPI.download]]
     sha256 = "7696bd1d62396fce8c9d69705b9ba1a19bbe8a59b343e32ecc520868f2640a04"
-    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+0/PAPI.v7.0.0.aarch64-linux-musl-cuda+none.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+1/PAPI.v7.0.0.aarch64-linux-musl-cuda+none.tar.gz"
 [[PAPI]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -120,4 +120,4 @@ os = "linux"
 
     [[PAPI.download]]
     sha256 = "420a30db72b1100da391a04d3507ebb4aaf5bb6ade790bb3372a4b6f9b68cfd6"
-    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+0/PAPI.v7.0.0.armv7l-linux-musleabihf-cuda+none.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/PAPI_jll.jl/releases/download/PAPI-v7.0.0+1/PAPI.v7.0.0.armv7l-linux-musleabihf-cuda+none.tar.gz"
