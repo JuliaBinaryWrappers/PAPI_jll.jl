@@ -1,6 +1,6 @@
 name = "PAPI_jll"
 uuid = "062e04e5-c3d3-5549-ab66-579a72a7bc1b"
-version = "7.0.0+2"
+version = "7.0.0+3"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
